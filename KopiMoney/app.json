@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "KopiMoney",
+    "slug": "KopiMoney",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4682B4"
+    },
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#4682B4",
+      "androidMode": "default",
+      "androidCollapsedTitle": "KopiMoney Updates"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
