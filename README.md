@@ -1,7 +1,3 @@
-Here's a README for your GitHub repository, "KopiMoney", based on the information you provided:
-
----
-
 # KopiMoney - Budget Tracker with Push Notifications
 
 KopiMoney is a cross-platform mobile application designed to help users manage their personal finances by tracking expenses and setting monthly budgets. Developed with React Native and Expo, the app provides timely push notifications to keep users aware of their spending habits and prevent overspending. [cite: 7, 10, 15, 186]
