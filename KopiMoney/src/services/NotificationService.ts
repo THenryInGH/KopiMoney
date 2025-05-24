@@ -12,7 +12,6 @@ export const configureNotifications = async (): Promise<void> => {
       allowAlert: true,
       allowBadge: true,
       allowSound: true,
-      allowAnnouncements: true,
     },
   });
 
@@ -22,6 +21,8 @@ export const configureNotifications = async (): Promise<void> => {
       shouldShowAlert: true,
       shouldPlaySound: true,
       shouldSetBadge: false,
+      shouldShowBanner: true,
+      shouldShowList: true,
     }),
   });
 };
